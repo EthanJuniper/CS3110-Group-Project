@@ -37,6 +37,10 @@ Jayden Nguyen - Jayvnn
   - Added error handling
   - Implementing addition code documention in Main.java
 
+Ethan Juniper
+Made a java program asks for user input as a string, and checks if the number entered is a valid decimal integer, python octal, hexadecimal integer, or python floating point literals and ouputs accept or reject and tells user what type of integer class it was accepted as. If rejected output tells user "Invalid number format".
+
+
 
 Alex Shafeian
 
